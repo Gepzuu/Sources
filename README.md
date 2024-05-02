@@ -5,3 +5,5 @@ I think adding these visuals will improve the presentation and make it more inte
 
 https://www.svgbackgrounds.com/
 https://animatedbackgrounds.me/#mm
+https://uiverse.io/cards
+https://www.flatuicolorpicker.com/
